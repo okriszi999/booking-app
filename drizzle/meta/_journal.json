@@ -1,0 +1,48 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1693688870091,
+      "tag": "0000_neat_changeling",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1693690869297,
+      "tag": "0001_safe_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1693690950958,
+      "tag": "0002_majestic_the_liberteens",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1693691767783,
+      "tag": "0003_youthful_whirlwind",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1693693710723,
+      "tag": "0004_pretty_wraith",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1693694591905,
+      "tag": "0005_dazzling_pepper_potts",
+      "breakpoints": true
+    }
+  ]
+}
